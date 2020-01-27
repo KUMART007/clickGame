@@ -10,9 +10,17 @@ class Game extends  Component {
             }, 
             {src:"http://blogs.uoregon.edu/yusugeog181/files/2014/05/Border-Collie-Puppy-0-1rzbtly.jpg",
             id: "2"
-            }
+            },
+            {src:"http://1.bp.blogspot.com/-5tB9q0VGQq4/VQmz8PQ0J1I/AAAAAAAAG4w/bnm6wibMRHc/s1600/richiemale.JPG",
+            id: "3"
+            },
+            {src:"http://1.bp.blogspot.com/-5tB9q0VGQq4/VQmz8PQ0J1I/AAAAAAAAG4w/bnm6wibMRHc/s1600/richiemale.JPG",
+            id: "4"
+            },
+            
             
         ]
+        
     }
     render(){
         return(
