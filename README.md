@@ -1,1 +1,1 @@
-# clickGame
+# clickyGame
