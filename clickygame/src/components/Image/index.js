@@ -2,10 +2,11 @@ import React from 'react';
 
 function Image(props){
     return (
-<div
+<img
+alt="a picture"
 role="img"
-onClick={() => props.clickImage(props.id)}
-style={{ backgroundImage: `url("${props.src}")` }}
+onClick={() => props.handleClick(props)}
+src={ props.src }
 />
     );
 } 
